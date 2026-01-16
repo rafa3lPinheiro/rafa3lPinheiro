@@ -14,12 +14,6 @@ Desenvolvedor Full-Stack especializado em aplicações web performáticas e esca
 ![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3E63DD?style=for-the-badge&logo=zod&logoColor=white)
 
-(Adicione mais se quiser, mas mantive os principais para não sobrecarregar visualmente)
-
-## Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafa3lPinheiro&theme=dracula&hide_border=true&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafa3lPinheiro&theme=dracula&hide_border=true&layout=compact)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rafa3lPinheiro&theme=dracula&hide_border=true)
 
 ## Experiência & Impacto
 - **Full-Stack na Nimbuslab (2021–Presente)**  
@@ -30,20 +24,10 @@ Desenvolvedor Full-Stack especializado em aplicações web performáticas e esca
   - Testes unitários com Jest e documentação Swagger.  
   - Scores Lighthouse 95+ em performance, acessibilidade e SEO.
 
-- **Formação**  
-  Cursando Engenharia Mecatrônica na Universidade de Brasília (UnB) – Conclusão prevista 2027.
-
-- **Cursos & Idiomas**  
-  - UI Design e Desenvolvimento Front-End (Origamid)  
-  - Inglês intermediário-avançado
-
-## Projetos Destacados
-Confira meus repositórios pinned abaixo — eles mostram aplicações reais, otimizações e boas práticas de código.
 
 ## Vamos Conectar?
 - 📧 Email: [rafa_calhao@outlook.com](mailto:rafa_calhao@outlook.com)  
 - 🔗 LinkedIn: [linkedin.com/in/rafa3lpinheiro](https://www.linkedin.com/in/rafa3lpinheiro)  
-- 📍 Brasília, DF (aberto a colaborações e projetos interessantes)
 
 "Código bom é código que resolve problemas e pode ser mantido por outros." – Adaptado de Robert C. Martin
 
